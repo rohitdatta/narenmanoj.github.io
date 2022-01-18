@@ -1,7 +1,7 @@
 ---
 title: "Excess Capacity and Backdoor Poisoning"
 collection: publications
-permalink: /publications/2021-Excess-capacity-and-backdoor-poisoning.md
+permalink: /publications/2021-12-01-Excess-capacity-and-backdoor-poisoning.md
 excerpt: 'Naren Sarayu Manoj, Avrim Blum'
 date: 2021-12-01
 venue: NeurIPS (Spotlight paper, top 3% of submitted papers)
