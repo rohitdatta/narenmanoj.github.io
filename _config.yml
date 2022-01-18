@@ -85,10 +85,10 @@ author:
   bio              : 
   location         : "Chicago, IL"
   employer         : "TTIC"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WQSMHvkAAAAJ&hl=en"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   foursquare       :
   github           : "github.com/narenmanoj"
   google_plus      :
-  keybase          : 
+  keybase          : "https://keybase.io/nsmanoj"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
