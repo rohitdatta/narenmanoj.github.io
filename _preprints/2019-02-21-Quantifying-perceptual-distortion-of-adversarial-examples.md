@@ -1,7 +1,7 @@
 ---
 title: "Quantifying Perceptual Distortion of Adversarial Examples"
 collection: preprints
-permalink: /preprints/2019-Quantifying-perceptual-distortion-of-adversarial-examples
+permalink: /preprints/2019-02-21-Quantifying-perceptual-distortion-of-adversarial-examples.md
 excerpt: 'Matt Jordan, Naren Manoj, Surbhi Goel, Alexandros G. Dimakis'
 date: 2019
 venue: arXiv
