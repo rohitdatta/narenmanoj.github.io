@@ -12,4 +12,4 @@ Hi, I’m Naren. I’m a third year PhD student at the [Toyota Technological Ins
 
 I’m interested in convex and high-dimensional geometry and its applications to theoretical computer science and machine learning theory. I’m also interested in the foundations of data science; my goals include building a better theoretical understanding of machine learning methods and developing practical machine learning and optimization algorithms with provable guarantees.
 
-I graduated with my BS from the [UT Austin computer science department](https://cs.utexas.edu) in 2018. I spent the following year interning at several companies in New York and the Bay Area.
+I graduated with my BS from the [UT Austin computer science department](https://cs.utexas.edu){:target="_blank"} in 2018. I spent the following year interning at several companies in New York and the Bay Area.
