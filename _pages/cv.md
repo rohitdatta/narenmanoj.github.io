@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my [CV](https://drive.google.com/file/d/15TUxDjZJuEimYwaTumSPB8R6B_6VGWeL/view).
+Here is a link to my [CV](https://drive.google.com/file/d/15TUxDjZJuEimYwaTumSPB8R6B_6VGWeL/view){:target="_blank"}.
