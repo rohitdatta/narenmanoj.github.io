@@ -2,7 +2,7 @@
 title: "Excess Capacity and Backdoor Poisoning"
 collection: publications
 permalink: /publications/2021-Excess-capacity-and-backdoor-poisoning.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Naren Sarayu Manoj, Avrim Blum'
 date: 2021-12-01
 venue: NeurIPS (Spotlight paper, top 3% of submitted papers)
 paperurl: 'https://arxiv.org/abs/2109.00685'
