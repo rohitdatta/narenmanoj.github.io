@@ -2,7 +2,7 @@
 title: "Quantifying Perceptual Distortion of Adversarial Examples"
 collection: preprints
 permalink: /preprints/2019-Quantifying-perceptual-distortion-of-adversarial-examples
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Matt Jordan, Naren Manoj, Surbhi Goel, Alexandros G. Dimakis'
 date: 2019
 venue: arXiv
 paperurl: 'https://arxiv.org/abs/1902.08265'
